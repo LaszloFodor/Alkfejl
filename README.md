@@ -37,4 +37,12 @@ Nem funkcionális követelmények:
   * Bejelentkezés
   * Regisztráció
   
-
+**Bejelentkezett felhasználó**: A publikus oldalak elérésén felül egyéb funkciókhoz is hozzáfér.  
+  *	Új kurzus felvétele
+  *	Meglévő kurzus megtekintése
+  *	Meglévő kurzus szerkesztése
+  *	Meglévő kurzus törlése
+  
+  
+  
+  
