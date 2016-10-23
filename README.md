@@ -44,6 +44,14 @@ Nem funkcionális követelmények:
   *	Meglévő kurzus törlése
   
 ![](usecase neptun paint.png)
-  
+
+
+**Meglévő kurzus szerkesztése:**
+1.	A felhasználó az oldalra érkezve, bejelentkezik vagy regisztrál
+2.	Regisztráció után megtekintheti a kurzusokat listázó oldalt, ahol kiválaszthatja a szerkeszteni kívánt kurzust.
+3.	Megnyomja a „Megtekintés” feliratú gombot.
+4.	A megtekintés oldalon kiválaszthatja a „Szerkesztés” gombot.
+5.	Szerkesztés oldalon felviszi az új adatokat.
+6.	Submit gombra kattintva elmenti a változásokat.
   
   
