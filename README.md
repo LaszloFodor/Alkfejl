@@ -1,9 +1,10 @@
 # Alkfejl
-Tárgyak felvétele (mini neptun program)
 
-Dokumentáció
+##Tárgyak felvétele (mini neptun program)
 
-Tárgyfelvétel( mini neptun)
+###Dokumentáció
+
+####Tárgyfelvétel( mini neptun)
 
 1.1 Célkitűzés, projectindító dokumentum
 
