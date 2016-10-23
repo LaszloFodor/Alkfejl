@@ -43,6 +43,7 @@ Nem funkcionális követelmények:
   *	Meglévő kurzus szerkesztése
   *	Meglévő kurzus törlése
   
+![](usecase neptun paint.png)
   
   
   
