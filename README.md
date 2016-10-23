@@ -29,3 +29,12 @@ Nem funkcionális követelmények:
 * **Kredit:** Tantárgy értéke pontokban, diákok harcolnak értük
 * **Tematika:** Tárgy részletes leírása
 * **Óraszám:** Heti hány órát foglal el a tárgy
+
+#####1.3 Használatieset-modell, funcionális követelmények
+
+**Vendég:** Csak publikus oldalakat érhet el
+  * Főoldal
+  * Bejelentkezés
+  * Regisztráció
+  
+
