@@ -11,10 +11,13 @@
 A program egy kis tárgyfelvelő alkalmazás(mini neptun) amely lehetővé teszi az adott tárgyak tulajdonságait, tematikájának megtekintését egyoldalo alkalmazás felhasználásával. Adatok védelme érdekében van lehetőség regisztrációra, később bejelentkezésre. Bejelentkezett felhasználó láthatja a kurzusok listáját, módosíthat, törölhet avagy új kurzust adhat a listához.
 
 Funkcionális követelmények:
-+ új kurzus felvétele a listába
-+ meglévő kurzusok megtekintése
-+ meglévő kurzusok szerkesztése
-+ meglévő kurzusok törlése
+* Regisztráció
+* Bejelentkezés
+* Csak bejelentkezett felhasnálók által elérhető funkciók
+  + új kurzus felvétele a listába
+  + meglévő kurzusok megtekintése
+  + meglévő kurzusok szerkesztése
+  + meglévő kurzusok törlése
 
 Nem funkcionális követelmények:
 + Használhatóság: Könnyű áttekinthetőség, ésszerű elrendezés, könnyen kezelhetőség
