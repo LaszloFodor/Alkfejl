@@ -20,6 +20,12 @@ Funkcionális követelmények:
   + meglévő kurzusok törlése
 
 Nem funkcionális követelmények:
-+ Használhatóság: Könnyű áttekinthetőség, ésszerű elrendezés, könnyen kezelhetőség
-+ Megbízhatóság: Hibásan bevitt adatok esetén a program jól láthatóan jelezzen a felhasználónak, és emelje ki a hibás beviteli mezőket. A jól bevitt adatok maradjanak az űrlapban.
-+ Karbantarthatóság: könnyen lehessen bővíteni, a különböző típusú fájlok külön csoportosítva, ésszerűen legyenek felbontva, a könnyebb fejleszthetőség miatt.
++ **Használhatóság:** Könnyű áttekinthetőség, ésszerű elrendezés, könnyen kezelhetőség
++ **Megbízhatóság:** Hibásan bevitt adatok esetén a program jól láthatóan jelezzen a felhasználónak, és emelje ki a hibás beviteli mezőket. A jól bevitt adatok maradjanak az űrlapban.
++ **Karbantarthatóság:** könnyen lehessen bővíteni, a különböző típusú fájlok külön csoportosítva, ésszerűen legyenek felbontva, a könnyebb fejleszthetőség miatt.
+
+#####1.2 Célkitűzés, projectindító dokumentum
+* **Kurzus:** Tantárgyak
+* **Kredit:** Tantárgy értéke pontokban, diákok harcolnak értük
+* **Tematika:** Tárgy részletes leírása
+* **Óraszám:** Heti hány órát foglal el a tárgy
