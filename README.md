@@ -54,4 +54,5 @@ Nem funkcionális követelmények:
   + Szerkesztés oldalon felviszi az új adatokat.
   + Submit gombra kattintva elmenti a változásokat.
   
+![](esetdiag paint.png)
   
